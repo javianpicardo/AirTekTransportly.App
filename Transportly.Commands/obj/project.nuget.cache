@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAqtJgwoFTh8tCAgflunamj5MuBZX7k1rQ6sjJlQpCJABbVM0S4sCqnyWuWaoCNkDEOp3oV9WpqrjR1sqjByqw==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\Interviews\\AirTek\\AirTekTransportly.App\\Transportly.Commands\\Transportly.Commands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javia\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\javia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\javia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\javia\\.nuget\\packages\\system.commandline\\2.0.0-beta1.21308.1\\system.commandline.2.0.0-beta1.21308.1.nupkg.sha512",
+    "C:\\Users\\javia\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyMjrEQd2AbH/8qr2qBs/ITfVAzRyXMDQ8ibvCDTLXCET7lIk2dc4Sx9RU8jhsoia8TU1+1AEf3G0LRtt64hjA==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\Interviews\\AirTek\\AirTekTransportly.App\\Transportly.Domain\\Transportly.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

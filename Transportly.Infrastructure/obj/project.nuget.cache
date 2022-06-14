@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ME/UtBbyY90NtvlAaQ3FM3PJWFro22h9ttQx5bREGu/udIMHiluWa5dfZEXH7rlbbXVsEbMe1Kx85MRXzeS7SQ==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\Interviews\\AirTek\\AirTekTransportly.App\\Transportly.Infrastructure\\Transportly.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\javia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\javia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
